@@ -1,0 +1,12 @@
+{
+  "name": "youtube-vscode-debugging-a-node-app-(2020)-o-l1ocmwpda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
